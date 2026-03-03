@@ -83,7 +83,7 @@ await client.sendMessage(m.chat, {
       }
     ],
     newsletter: {
-      newsletterName: "RaldzzXyz | Newsletter",
+      newsletterName: "MamzStr | Newsletter",
       newsletterJid: "1@newsletter"
     }
   }
@@ -94,18 +94,18 @@ await client.sendMessage(m.chat, {
 ```javascript
 await client.relayMessage(m.chat, {
   productMessage {
-    title: "RaldzzXyz",
-    description: " RaldzzXyz Example Description Text ",
+    title: "MamzStr",
+    description: " MamzStr Example Description Text ",
     thumbnail: { url: "./R4IMG" },
     productId: "EXAMPLE_TOKEN",
     retailerId: "EXAMPLE_RETAILER_ID",
-    url: "https://t.me/RaldzzXyz",
-    body: " RaldzzXyz Example Body Text ",
-    footer: "RaldzzXyz Example Footer Text",
+    url: "https://t.me/MamzStr",
+    body: " MamzStr Example Body Text ",
+    footer: "MamzStr Example Footer Text",
     buttons: [
       {
         name: "cta_url",
-        buttonParamsJson: "{\"display_text\":\"RaldzzXyz\",\"url\":\"https://t.me/RaldzzXyz\"}"
+        buttonParamsJson: "{\"display_text\":\"MamzStr\",\"url\":\"https://t.me/MamzStr\"}"
       }
     ],
     priceAmount1000: 72502,
