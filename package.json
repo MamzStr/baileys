@@ -1,16 +1,16 @@
 {
     "name": "qwerty-xcv/Baileys",
     "version": "2.1.7",
-    "description": "WhatsApp Modified By RaldzzXyz",
+    "description": "WhatsApp Modified By Mamz",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/raldzfvck/bails",
+    "homepage": "https://github.com/MamzStr/bails",
     "repository": {
-        "url": "https://github.com/raldzfvck/bails"
+        "url": "https://github.com/MamzStr/bails"
     },
     "license": "MIT",
-    "author": "RaldzzXyz",
+    "author": "Mamz",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
@@ -101,6 +101,6 @@
         "node": ">=20.0.0"
     }, 
     "bugs": {
-      "url": "https://raldzfvck/bails/issues"
+      "url": "https://MamzStr/bails/issues"
     }
 }
