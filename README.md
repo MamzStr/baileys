@@ -9,7 +9,7 @@
 ## Usage
 ```json
 "depencies": {
-  "@whiskeysockets/baileys": "github:raldzfvck/baileys"
+  "@whiskeysockets/baileys": "github:MamzStr/baileys"
 }
 ```
 ## Import
